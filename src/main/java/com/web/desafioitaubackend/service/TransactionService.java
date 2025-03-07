@@ -26,8 +26,4 @@ public class TransactionService {
         return transactions.stream().filter(t -> t.getDataHora().isAfter(now.minusSeconds(60))).mapToDouble(Transaction::getValor).summaryStatistics();
 
     }
-
-
-
-
 }
