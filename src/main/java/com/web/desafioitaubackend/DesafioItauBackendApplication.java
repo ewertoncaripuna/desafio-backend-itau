@@ -1,13 +1,13 @@
-package com.web.desafioitaubackendnovo;
+package com.web.desafioitaubackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DesafioItauBackendNovoApplication {
+public class DesafioItauBackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DesafioItauBackendNovoApplication.class, args);
+        SpringApplication.run(DesafioItauBackendApplication.class, args);
     }
 
 }

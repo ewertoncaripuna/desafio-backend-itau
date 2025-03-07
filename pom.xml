@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.web</groupId>
-    <artifactId>desafio-itau-backend-novo</artifactId>
+    <artifactId>desafio-itau-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>desafio-itau-backend-novo</name>
     <description>desafio-itau-backend-novo</description>

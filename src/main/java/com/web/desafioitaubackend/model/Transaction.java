@@ -1,4 +1,4 @@
-package com.web.desafioitaubackendnovo.model;
+package com.web.desafioitaubackend.model;
 
 import java.time.OffsetDateTime;
 
